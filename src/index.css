@@ -5,6 +5,10 @@
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   box-sizing: border-box;
 }
+button {
+  border: none;
+  outline: none;
+}
 
 body {
   -webkit-font-smoothing: antialiased;
